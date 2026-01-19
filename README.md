@@ -58,9 +58,11 @@ Janata Vidyalaya, Utrane, Nashik
 * Built **machine learning models** and **visual dashboards**
 * Performed data analysis using **Python and SQL**
 
-**Skills Used:** Python, SQL, Pandas, NumPy, Machine Learning, Data Visualization, GitHub
+<!-- ================= SKILLS & TOOLS ================= -->
+
+<!-- Row 1: Programming & Core Tools -->
+
 <p align="center">
-  <!-- Programming & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
@@ -68,8 +70,9 @@ Janata Vidyalaya, Utrane, Nashik
   <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
 </p>
 
+<!-- Row 2: Python Libraries -->
+
 <p align="center">
-  <!-- Python Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
@@ -77,14 +80,37 @@ Janata Vidyalaya, Utrane, Nashik
   <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn"/>
 </p>
 
+<!-- Row 3: Data Science & Machine Learning -->
+
 <p align="center">
-  <!-- Data Science / ML -->
   <img src="https://skillicons.dev/icons?i=ml" width="50" height="50" alt="Machine Learning"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
+  <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="Artificial Intelligence"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter Notebook"/>
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" alt="Google Colab"/>
-  <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="AI"/>
 </p>
 
+<!-- Row 4: Data Analysis & Visualization -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-✔-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-📊-orange?style=for-the-badge"/>
+</p>
+
+<!-- Row 5: ML Concepts -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Regression-ML-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Classification-ML-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clustering-ML-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model%20Evaluation-ML-red?style=for-the-badge"/>
+</p>
+
+<!-- Row 6: Automation & Other Tools -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge&logo=n8n"/>
+</p>
 
 ## 🚀 Projects
 
