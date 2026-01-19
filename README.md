@@ -59,6 +59,36 @@ Janata Vidyalaya, Utrane, Nashik
 * Performed data analysis using **Python and SQL**
 
 <!-- ================= SKILLS & TOOLS ================= -->
+## 🧰 Skills & Tools
+
+<!-- ================= Programming & Tools ================= -->
+
+<p align="center"><b>Programming & Tools</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+</p>
+
+<!-- ================= Python Libraries ================= -->
+
+<p align="center"><b>Python Libraries</b></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib"/>
+  <img src="https://skillicons.dev/icons?i=seaborn" width="50" alt="Seaborn"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="Scikit-Learn"/>
+</p>
+
+<!-- ================= Data Science & ML ================= -->
+
+<p align="center"><b>Data Science & Machine Learning</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ml" width="50" alt="Machine Learning"/>
+  <img src="https://skillicons
 
 <!-- Row 1: Programming & Core Tools -->
 
