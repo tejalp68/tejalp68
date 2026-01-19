@@ -59,41 +59,32 @@ Janata Vidyalaya, Utrane, Nashik
 * Performed data analysis using **Python and SQL**
 
 **Skills Used:** Python, SQL, Pandas, NumPy, Machine Learning, Data Visualization, GitHub
+<p align="center">
+  <!-- Programming & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+</p>
 
----
+<p align="center">
+  <!-- Python Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
+  <img src="https://skillicons.dev/icons?i=seaborn" width="50" height="50" alt="Seaborn"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn"/>
+</p>
 
-## 🧰 Skills & Tools
+<p align="center">
+  <!-- Data Science / ML -->
+  <img src="https://skillicons.dev/icons?i=ml" width="50" height="50" alt="Machine Learning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" alt="Google Colab"/>
+  <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="AI"/>
+</p>
 
-### 🔹 Programming & Tools
-
-* Python
-* SQL
-* HTML, CSS
-* n8n
-* GitHub
-
-### 🔹 Python Libraries
-
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-
-### 🔹 Machine Learning
-
-* Regression
-* Classification
-* Clustering
-* Model Evaluation
-
-### 🔹 Data Analysis
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-
----
 
 ## 🚀 Projects
 
