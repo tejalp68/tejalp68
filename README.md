@@ -58,6 +58,17 @@ Janata Vidyalaya, Utrane, Nashik
 * Built **machine learning models** and **visual dashboards**
 * Performed data analysis using **Python and SQL**
 
+### 📌 Data Science Intern — *Bitspark Technologies*
+
+📍 Nashik, Maharashtra, India | 🗓️ *Present*
+
+* Selected as a **Data Science Intern** to work on real-world, data-driven problems
+* Strengthening core **data science concepts** through hands-on, practical learning
+* Working with datasets to perform **analysis, visualization, and modeling**
+* Applying theoretical knowledge to meaningful tasks in a professional environment
+
+
+
 <!-- ================= SKILLS & TOOLS ================= -->
 ## 🧰 Skills & Tools
 <!-- ================= SKILLS & TOOLS ================= -->
