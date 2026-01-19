@@ -1,16 +1,151 @@
-## Hi there 👋
+<!-- Banner -->
 
-<!--
-**tejalp68/tejalp68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078ff,100:00c6ff&height=200&section=header&text=Tejal%20Pagar&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-Here are some ideas to get you started:
+<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Tejal Dadaji Pagar</span></h1>
+<h3 align="center">🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Actionable+Insights.;Exploring+AI+%26+Machine+Learning.;Building+Predictive+Models+with+Python.">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejalp68&label=Profile%20Views&color=0078ff&style=flat-square"/>
+</p>
+
+---
+
+## 💼 About Me
+
+💡 **Data Scientist** with hands-on experience in **data analysis, machine learning, and predictive modeling**.
+
+📊 Skilled in **Python, SQL, AI/ML, and data visualization** for business-driven insights.
+
+🧠 Strong foundation in **EDA, statistical analysis, and model evaluation**.
+
+🌱 Continuously learning and exploring **advanced ML and automation tools**.
+
+📍 **Location:** Nashik, Maharashtra, India
+
+📫 **Connect with me:**
+
+* 🔗 [LinkedIn](https://linkedin.com/in/tejal-pagar-636b74343)
+* 💻 [GitHub](https://github.com/tejalp68)
+* ✉️ [tejalpagar2005@gmail.com](mailto:tejalpagar29@gmail.com)
+
+---
+
+## 🎓 Education
+
+🎓 **B.E. Computer Engineering (2023–2027)**
+Late G. N. College of Engineering, Anjaneri, Nashik
+
+📘 **HSC (2023)**
+Karmveer Abasaheb Alias N. M. Sonawane College, Satana
+
+📗 **SSC (2021)**
+Janata Vidyalaya, Utrane, Nashik
+
+---
+
+## 💼 Experience
+
+### 📌 Data Science Intern — *TechnoHacks Solutions*
+
+📍 Nashik, Maharashtra
+
+* Worked with **real-world datasets** to derive meaningful insights
+* Built **machine learning models** and **visual dashboards**
+* Performed data analysis using **Python and SQL**
+
+**Skills Used:** Python, SQL, Pandas, NumPy, Machine Learning, Data Visualization, GitHub
+
+---
+
+## 🧰 Skills & Tools
+
+### 🔹 Programming & Tools
+
+* Python
+* SQL
+* HTML, CSS
+* n8n
+* GitHub
+
+### 🔹 Python Libraries
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+
+### 🔹 Machine Learning
+
+* Regression
+* Classification
+* Clustering
+* Model Evaluation
+
+### 🔹 Data Analysis
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+
+---
+
+## 🚀 Projects
+
+### 📊 Exploratory Data Analysis – Surat City Dataset
+
+* Analyzed population trends and extracted key insights
+* Cleaned and visualized data using Python libraries
+  **Tech:** Python, Pandas, Matplotlib, Seaborn
+
+### 🏠 California Housing Price Predictor
+
+* Built an ML model to predict house prices
+* Performed feature selection and model evaluation
+  **Tech:** Python, Pandas, Scikit-Learn
+
+### ⚛️ Interactive Atomic Table
+
+* Created an interactive atomic model with element details
+* Designed a responsive UI
+  **Tech:** HTML, CSS, JavaScript
+
+### 🤖 AI Agent Chatbot using n8n
+
+* Developed an AI-powered chatbot for automated user responses
+* Integrated workflows with AI models
+  **Tech:** n8n, AI Automation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejalp68&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejalp68&theme=github_dark" height="170"/>
+</p>
+
+---
+
+## 🎨 Fun Facts
+
+☕ I analyze data best with coffee
+📈 Love turning raw data into clear stories
+🎯 Passionate about **AI, ML, and smart automation**
+📊 Enjoy building **clean & aesthetic dashboards**
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/tejal-pagar-636b74343">
+    <img src="https://img.shields.io/badge/LinkedIn-0078FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tejalpagar29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
