@@ -1,5 +1,5 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078ff,100:00c6ff&height=200&section=header&text=Tejal%20Pagar&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- Banner --><!-- Banner -->
+<img src="./assets/tejal-pagar-banner-code.png" width="100%"/>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Tejal Dadaji Pagar</span></h1>
 <h3 align="center">🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
