@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<img src="tejal-pagar.png">
+<img src="tejal-pagar-banner-code.png">
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Tejal Dadaji Pagar</span></h1>
 <h3 align="center">🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
