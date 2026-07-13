@@ -208,6 +208,12 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+## 📅 Commit Calendar
+
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar"/>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
