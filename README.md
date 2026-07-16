@@ -162,6 +162,14 @@ Janata Vidyalaya, Utrane, Nashik
 
 ---
 
+## 📅 Commit Calendar
+
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar"/>
+</p>
+
+---
+
 ## 🎨 Fun Facts
 
 ☕ I analyze data best with coffee
