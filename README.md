@@ -60,9 +60,9 @@ Janata Vidyalaya, Utrane, Nashik
 
 ### 📌 Trainee Python Developer Intern — *Bitspark Technologies*
 
-📍 Nashik, Maharashtra, India |
+📍 Nashik, Maharashtra, India 
 
-* Selected as a **Data Science Intern** to work on real-world, data-driven problems
+* Selected as a **Trainee Python Developer Intern** to work on real-world, data-driven problems
 * Strengthening core **data science concepts** through hands-on, practical learning
 * Working with datasets to perform **analysis, visualization, and modeling**
 * Applying theoretical knowledge to meaningful tasks in a professional environment
