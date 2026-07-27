@@ -87,7 +87,7 @@ Janata Vidyalaya, Utrane, Nashik
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
-  <img src="https://skillicons.dev/icons?i=seaborn" width="50" height="50" alt="Seaborn"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Logo-seaborn.png" width="50" height="50" alt="Seaborn"/>
   <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn"/>
 </p>
 
