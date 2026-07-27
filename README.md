@@ -87,14 +87,14 @@ Janata Vidyalaya, Utrane, Nashik
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
-  <img src="https://commons.wikimedia.org/wiki/File:Logo-seaborn.png" width="50" height="50" alt="Seaborn"/>
+  <img src="Logo-seaborn.png" width="50" height="50" alt="Seaborn"/>
   <img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn"/>
 </p>
 
 <!-- Row 3: Data Science & Machine Learning -->
 
 <p align="center">
-  <img src="https://www.vecteezy.com/free-vector/machine-learning-logo" width="50" height="50" alt="Machine Learning"/>
+  <img src="MLlogo.jpg" width="50" height="50" alt="Machine Learning"/>
   <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="Artificial Intelligence"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter Notebook"/>
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" alt="Google Colab"/>
