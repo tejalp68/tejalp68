@@ -100,24 +100,6 @@ Janata Vidyalaya, Utrane, Nashik
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" alt="Google Colab"/>
 </p>
 
-<!-- Row 4: Data Analysis & Visualization -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Cleaning-✔-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-📊-orange?style=for-the-badge"/>
-</p>
-
-<!-- Row 5: ML Concepts -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Regression-ML-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Classification-ML-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clustering-ML-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Model%20Evaluation-ML-red?style=for-the-badge"/>
-</p>
-
-<!-- Row 6: Automation & Other Tools -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge&logo=n8n"/>
