@@ -70,7 +70,6 @@ Janata Vidyalaya, Utrane, Nashik
 
 <!-- ================= SKILLS & TOOLS ================= -->
 ## 🧰 Skills & Tools
-<!-- ================= SKILLS & TOOLS ================= -->
 
 <!-- Row 1: Programming & Core Tools -->
 
