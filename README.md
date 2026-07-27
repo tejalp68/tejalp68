@@ -94,7 +94,7 @@ Janata Vidyalaya, Utrane, Nashik
 <!-- Row 3: Data Science & Machine Learning -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ml" width="50" height="50" alt="Machine Learning"/>
+  <img src="https://www.vecteezy.com/free-vector/machine-learning-logo" width="50" height="50" alt="Machine Learning"/>
   <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="Artificial Intelligence"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter Notebook"/>
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" alt="Google Colab"/>
