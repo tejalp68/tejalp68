@@ -98,12 +98,11 @@ Janata Vidyalaya, Utrane, Nashik
   <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="Artificial Intelligence"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter Notebook"/>
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50" height="50" alt="Google Colab"/>
+  <img src="n8n.png" width="50" height="50" alt="N8N" />
 </p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge&logo=n8n"/>
-</p>
+
 
 ## 🚀 Projects
 
